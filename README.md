@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Rakibul Hasan Mishu👀✌️</h1>
-<h3 align="center">I am a Student of computer science at Uttara University, Dhaka, Bangladesh. Apart from that I am seasonal ML developer (on Machine Learning, Data Science) and contributing to open source.</h3>
+<h4 align="center">I am a Student of computer science. Apart from that I am working on Machine Learning, Data Science and contributing to open source.</h4>
 
 * 🌍  I'm based in Dhaka.
 * 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
