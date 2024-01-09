@@ -7,8 +7,8 @@
 * 🧠  I'm learning Tensorflow,SciKit Learn,Matplotlib,Seaborn.
 * 🤝  I'm open to collaborating on ML Projects.
 * ⚡  I'm a pet lover.
-- 👨‍💻 All of my projects are available at **https://github.com/MishuZero**
-- 
+* 👨‍💻 All of my projects are available at **https://github.com/MishuZero**
+ 
 <h3 align="left">Social:</h3>
 <p align="left"> <a href="https://www.github.com/MishuZero" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rakibul-hasan-mishu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Mishu0x01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
@@ -41,7 +41,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MishuZero&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MishuZero&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishuZero&theme=aura_dark" height="180em" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishuZero&layout=compact&theme=dracula" alt=MishuZero />
 </div>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishuZero&layout=compact&theme=dracula" alt=MishuZero />
+
