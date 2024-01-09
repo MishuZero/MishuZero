@@ -1,6 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakibul Hasan Mishu
-Data Scientiest
-A future data scientist with a passion for problem-solving and a strong foundation in statistics, programming, and data visualization.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+*My name is Rakibul Hasan Mishu*
+*Data Enthusiast*
+*A future data scientist with a passion for problem-solving and a strong foundation in statistics, programming, and data visualization.*
 * 🌍  I'm based in Dhaka*
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)*
 * 🚀  I'm currently working on [Python/Projects](http://github.com/MishuZero/Python-projects)*
