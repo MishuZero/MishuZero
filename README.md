@@ -2,13 +2,14 @@
 <h3 align="center">I am a Student of computer science at Uttara University, Dhaka, Bangladesh. Apart from that I am seasonal ML developer (on Machine Learning, Data Science) and contributing to open source.</h3>
 
 * 🌍  I'm based in Dhaka.
-* 🖥️  See my Exprience at [Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)
-* 🚀  I'm currently working on [Python/Projects](http://github.com/MishuZero/Python-projects)
+* 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
+* 🚀  I'm currently working on **[Python/Projects](http://github.com/MishuZero/Python-projects)**
 * 🧠  I'm learning Tensorflow,SciKit Learn,Matplotlib,Seaborn.
 * 🤝  I'm open to collaborating on ML Projects.
 * ⚡  I'm a pet lover.
 - 👨‍💻 All of my projects are available at **https://github.com/MishuZero**
-
+- 
+<h3 align="left">Social:</h3>
 <p align="left"> <a href="https://www.github.com/MishuZero" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rakibul-hasan-mishu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Mishu0x01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +45,3 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishuZero&layout=compact&theme=dracula" alt=MishuZero />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MishuZero&show_icons=true&locale=en&theme=dracula" alt="MishuZero" /></p>
-
-
