@@ -1,6 +1,7 @@
 <h2 align="center">Hi There, I'm Rakibul Hasan Mishu👀✌️</h2>
 <h4 align="center">I am a Student of computer science. Apart from that I am working on Machine Learning, Data Science and contributing to open source.</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 * 🌍  I'm based in Dhaka.
 * 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
 * 🚀  I'm currently working on **[Python/Projects](http://github.com/MishuZero/Python-projects)**
@@ -32,14 +33,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MishuZero">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MishuZero&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MishuZero&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MishuZero&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MishuZero&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishuZero&theme=discord_old_blurple" height="180em" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishuZero&layout=compact&theme=dracula" alt=MishuZero />
 </div>
