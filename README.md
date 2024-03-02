@@ -1,13 +1,13 @@
 <h2 align="center">Hi There, I'm Rakibul Hasan Mishu👀✌️</h2>
-<h4 align="center">I am a Student of computer science. Apart from that I am working on Machine Learning, Data Science.</h4>
+<h4 align="center">I am a Student of computer science. Apart from that I am working on Data Science & Machine Learning .Preparing to become an Data Engineer.</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-* 🌍  I'm based in Dhaka.
+* 🌍  I'm based in Dhaka,Bangladesh.
 * 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
 * 🚀  I'm currently working on **[Python/Projects](http://github.com/MishuZero/Python-projects)**
 * 🧠  I'm learning Apache Airflow,Apache Spark, Snowflake,dbt,Matplotlib,Seaborn,PyTorch,SciKit Learn.
-* 🤝  I'm open to collaborating on ML Projects.
-* ⚡  I'm a pet lover.
+* 🤝  I'm open to collaborating on ML & data based Projects.
+* ⚡  I'm a pet lover(Cat).
 * 👨‍💻 All of my projects are available at **[All projects](https://github.com/MishuZero?tab=repositories)**
  
 <h3 align="left">Social:</h3>
