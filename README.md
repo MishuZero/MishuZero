@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Dhaka,Bangladesh.
 * 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
-* 🚀  I'm currently working on **[Python/Projects](http://github.com/MishuZero/Data-Eng-projects)**
+* 🚀  I'm currently working on **[Data/Projects](http://github.com/MishuZero/Data-Eng-projects)**
 * 🧠  I'm learning Hadoop, Hive, Apache Airflow, Apache Kafka, Apache Spark, Azure, AWS, Power BI.
 * 🤝  I'm open to collaborating on data based Projects.
 * ⚡  I'm a pet lover(Cat).
@@ -19,7 +19,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
