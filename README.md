@@ -1,11 +1,11 @@
 <h2 align="center">Hi There, I'm Rakibul Hasan Mishu👀✌️</h2>
-<h3 align="center">I am a Student of computer science. Apart from that I am working on Data Engineering projects.<br> Preparing to become an Data Engineer.</h3>
+<h3 align="center">I am a Student of computer science. Apart from that I am working on projects.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 * 🌍  I'm based in Dhaka,Bangladesh.
 * 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
-* 🚀  I'm currently working on **[Data/Projects](http://github.com/MishuZero/Data-Eng-projects)**
-* 🧠  I'm learning Hadoop, Hive, Apache Airflow, Apache Kafka, Apache Spark, Azure, AWS, Power BI.
+* 🚀  I'm currently working on **[Projects](https://github.com/MishuZero?tab=repositories)**
+* 🧠  I'm learning  Apache Kafka, Git, Azure, AWS, MySQL .
 * 🤝  I'm open to collaborating on data based Projects.
 * ⚡  I'm a pet lover(Cat).
 * 👨‍💻 All of my projects are available at **[All projects](https://github.com/MishuZero?tab=repositories)**
@@ -18,7 +18,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
