@@ -1,12 +1,12 @@
 <h2 align="center">Hi There, I'm Rakibul Hasan Mishu👀✌️</h2>
-<h3 align="center">I am a Student of computer science. Apart from that I am working on projects.
+<h3 align="center">Software Quality Tester & Security Engineer.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 * 🌍  I'm based in Dhaka,Bangladesh.
 * 🖥️  See my Exprience at **[Linkedin](http://www.linkedin.com/in/rakibul-hasan-mishu/)**
 * 🚀  I'm currently working on **[Projects](https://github.com/MishuZero?tab=repositories)**
-* 🧠  I'm learning  Apache Kafka, Git, Azure, AWS, MySQL .
-* 🤝  I'm open to collaborating on data based Projects.
+* 🧠  I'm learning  Jira, Trello, Playwright, Git, AWS, Python, Bash, Javascript, MySQL .
+* 🤝  I'm open to collaborating on Web, Android & IOS based Projects.
 * ⚡  I'm a pet lover(Cat).
 * 👨‍💻 All of my projects are available at **[All projects](https://github.com/MishuZero?tab=repositories)**
  
