@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Rakibul Hasan Mishu</h2>
-<h4 align="center"> Aspiring Engineer from Bangladesh </h4>
+<h2 align="center">Hi 👋, I'm Rakibul Hasan </h2>
+<h4 align="center"> Aspiring Software Engineer from Bangladesh </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishuzero&label=Profile%20views&color=0e75b6&style=flat" alt="mishuzero" /> </p>
 
