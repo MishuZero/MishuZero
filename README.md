@@ -11,12 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="50" height="50"/> </a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-<img width="60" height="60" alt="Airflow" src="https://github.com/user-attachments/assets/502e76cc-bad1-4326-9a56-6ee64958e6e9" />
-
-
+<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 
 
